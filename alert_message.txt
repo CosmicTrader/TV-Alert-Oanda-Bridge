@@ -1,0 +1,1 @@
+"Side":"{{strategy.order.action}}","Order_Size":{{strategy.order.contracts}},{{strategy.order.alert_message}}
